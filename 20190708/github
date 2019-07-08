@@ -1,0 +1,9 @@
+Repository existant
+	1)Se placer dans le dossier prêt à accepter le dépôt	
+	2)git clone liendudépôt
+	3)mettre fichier à importer dans le dépôt avec cp ou mv
+	4)"~" est la racine du répertoire personnel, "/" est la racine du pc
+	5)git add nomdufichier
+	6)git commit -m "nomdufichier"
+	7)git pull
+	8)git push origin master
